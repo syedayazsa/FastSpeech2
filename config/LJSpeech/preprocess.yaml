@@ -1,7 +1,7 @@
 dataset: "LJSpeech"
 
 path:
-  corpus_path: "/content/FastSpeech2/dataset/LJSpeech-1.1"
+  corpus_path: "/content/FastSpeech2/dataset/"
   lexicon_path: "./lexicon/librispeech-lexicon.txt"
   raw_path: "./raw_data/LJSpeech"
   preprocessed_path: "./preprocessed_data/LJSpeech"
