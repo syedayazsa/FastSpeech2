@@ -1,7 +1,7 @@
 path:
   ckpt_path: "/content/gdrive/MyDrive/Model/FastSpeech2/ckpt_path"
   log_path: "/content/gdrive/MyDrive/Model/FastSpeech2/log_path"
-  result_path: "/content/gdrive/MyDrive/Model/FastSpeech2/log_path"
+  result_path: "/content/gdrive/MyDrive/Model/FastSpeech2/result_path"
 optimizer:
   batch_size: 32
   betas: [0.9, 0.98]
